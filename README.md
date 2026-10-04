@@ -1,90 +1,257 @@
 # Hi there 👋 I'm Dilki Sandeepani
 
-### IT Diploma Graduate | Web Developer | UI/UX | QA & Data Analytics
+### IT Diploma Graduate | Web Developer | UI/UX | QA & Data Analytics Enthusiast
 
-I am a **Diploma in Information Technology graduate with a GPA of 3.97**, with a strong interest in **web development, UI/UX design, software quality assurance, IT support, and data analytics**.
+I am a **Diploma in Information Technology graduate with a GPA of 3.97**, interested in building responsive websites, designing user-friendly interfaces, testing software, and working with data.
 
-I enjoy creating **responsive websites, database-driven applications, user-focused interfaces, and practical digital solutions** while continuously developing my technical and problem-solving skills.
-
----
-
-## 🛠️ Technologies & Tools
-
-### 💻 Web Development
-
-`HTML` • `CSS` • `JavaScript` • `PHP` • `MySQL` • `Responsive Web Design`
-
-### 🎨 UI/UX & Design
-
-`Figma` • `Canva` • `Adobe Photoshop` • `UI/UX Design` • `Wireframing` • `Prototyping`
-
-### 🧪 Software QA & Testing
-
-`Software Testing` • `Manual Testing` • `Test Cases` • `Bug Reporting` • `Functional Testing` • `UI Testing` • `Responsive Testing` • `Regression Testing`
-
-### 📊 Data & Business
-
-`Python` • `Pandas` • `SQL` • `Excel` • `Data Analysis` • `Data Visualization`
-
-### 🔧 Other
-
-`WordPress` • `IT Administration` • `Technical Support` • `Troubleshooting` • `AI-Assisted Development`
+I enjoy turning ideas into practical digital experiences using **HTML, CSS, JavaScript, PHP, SQL, Figma, Python, Excel, and AI-assisted development tools**.
 
 ---
 
-# 🚀 Completed Projects
+## 🚀 Technologies & Tools
 
-## 👗 LIORA — Fashion E-Commerce Website
+### Web Development
 
-**Diploma Main Project**
+* HTML5
+* CSS3
+* JavaScript
+* Responsive Web Design
+* PHP Fundamentals
+* WordPress
 
-A fashion-focused e-commerce web application developed using **HTML, CSS, JavaScript, PHP, MySQL, and SQL**, combining responsive web design with database-driven functionality.
+### UI/UX & Design
+
+* UI/UX Design
+* Figma
+* Canva
+* Adobe Photoshop
+* Responsive Interface Design
+
+### Database & Data
+
+* SQL
+* MySQL
+* Python
+* Excel
+* Data Cleaning
+* Data Analysis
+
+### Software QA
+
+* Software Testing Fundamentals
+* Test Case Writing
+* Bug Reporting
+* SDLC / STLC
+* Functional Testing
+* Responsive Testing
+
+### AI & Digital Tools
+
+* AI-Assisted Development
+* AI Productivity Tools
+* Digital Workflows
+* Data Literacy
+
+---
+
+# 💻 Completed Projects
+
+### 1. LIORA — Fashion E-Commerce Website
+
+A responsive fashion e-commerce website developed as my diploma project.
 
 **Technologies:**
+HTML • CSS • JavaScript • PHP • MySQL • SQL
 
-`HTML` `CSS` `JavaScript` `PHP` `MySQL` `SQL`
+**Features:**
+
+* Product browsing
+* Product details
+* Shopping functionality
+* Responsive design
+* Database integration
+* User-friendly interface
 
 ---
 
-## 🎓 Student Management & Registration System
+### 2. Student Management & Registration System
 
-A **database-driven student management application** developed with **HTML, CSS, JavaScript, PHP, MySQL, and SQL**.
-
-The system includes student registration, searching, editing, deletion, validation, and database operations.
+A simple web-based student management system for managing student records.
 
 **Technologies:**
+HTML • CSS • JavaScript • PHP • MySQL
 
-`HTML` `CSS` `JavaScript` `PHP` `MySQL` `SQL`
+**Features:**
+
+* Add students
+* View student records
+* Edit records
+* Delete records
+* Database management
+* Form validation
 
 ---
 
-## 🎨 Small Business Website & Brand Kit
+### 3. Small Business Website & Brand Kit
 
-A responsive small-business website and branding project combining **web development, UI/UX design, responsive design, and visual branding**.
+A responsive business website combined with a simple visual brand identity.
 
-The project demonstrates practical use of web design and design tools to create a consistent digital presence.
+**Tools:**
+Figma • Canva • Photoshop • HTML • CSS • JavaScript
 
-**Tools & Technologies:**
+**Focus:**
 
-`HTML` `CSS` `JavaScript` `Figma` `Canva` `Adobe Photoshop`
+* UI/UX design
+* Responsive web design
+* Business website structure
+* Visual branding
+* User-friendly layouts
+
+---
+
+# 🌐 Frontend Web Development Projects
+
+These projects demonstrate my ability to create **responsive, modern and user-friendly websites for different business and product types**.
+
+### 4. Yoga Studio Website
+
+Responsive website showcasing:
+
+* Classes
+* Services
+* Benefits
+* Contact / booking options
+
+**Focus:** Frontend Web Development • Responsive Design • UI/UX
+
+---
+
+### 5. Coffee Shop Website
+
+Responsive café website featuring:
+
+* Menu
+* Location
+* Business information
+* Contact
+
+**Focus:** Frontend Web Development • Responsive Design • Business Website Design
+
+---
+
+### 6. Fitness Coach Landing Page
+
+Promotional landing page featuring:
+
+* Training programs
+* Testimonials
+* Pricing
+* Calls to action
+
+**Focus:** Landing Page Design • Conversion-Focused UI • Responsive Web Development
+
+---
+
+### 7. Wedding Planner Website
+
+Business website featuring:
+
+* Packages
+* Services
+* Events
+* Inquiry functionality
+
+**Focus:** Frontend Development • Business Website • Responsive UI
+
+---
+
+### 8. Digital Product Store
+
+E-commerce-style interface for:
+
+* Planners
+* Guides
+* Templates
+* Digital products
+
+**Focus:** Frontend Web Development • E-Commerce UI • Product Design
+
+---
+
+### 9. Real Estate Landing Page
+
+Property-focused website featuring:
+
+* Featured listings
+* Property details
+* Pricing
+* Location information
+
+**Focus:** Responsive Web Design • Property UI • Frontend Development
+
+---
+
+### 10. Freelancer Portfolio
+
+Portfolio website showcasing:
+
+* Skills
+* Services
+* Projects
+* Contact information
+
+**Focus:** Personal Branding • Portfolio Development • Responsive Web Design
+
+---
+
+### 11. SaaS Landing Page
+
+Software product landing page featuring:
+
+* Product benefits
+* Pricing
+* Testimonials
+* Sign-up calls to action
+
+**Focus:** SaaS UI • Landing Page Design • Frontend Development
+
+---
+
+# 🤖 AI-Assisted Web Projects
+
+These projects are **completed practical web projects created using AI-assisted development and web technologies**.
+
+The projects demonstrate practical frontend development, problem-solving, and the ability to use AI tools as part of the development workflow.
+
+### 12. Email Tracking Tool
+
+A practical web utility designed to demonstrate frontend functionality and an email-tracking workflow.
+
+**Focus:** Web Development • JavaScript • AI-Assisted Development
+
+---
+
+### 13. Word Counter
+
+A simple web utility for counting words and text-related information.
+
+**Focus:** HTML • CSS • JavaScript • AI-Assisted Development
+
+---
+
+### 14. Wallpaper Website
+
+A responsive website for browsing and presenting wallpaper content.
+
+**Focus:** HTML • CSS • JavaScript • Responsive Web Design • AI-Assisted Development
 
 ---
 
 # 🎨 UI/UX Case Studies — Ongoing
 
-I am currently developing a collection of **personal UI/UX portfolio case studies** covering different industries and user experiences.
+### 15. Enterprise SaaS Website Redesign
 
-These are **personal/portfolio projects and are not presented as professional client work**.
-
----
-
-## 💻 Enterprise SaaS Website Redesign
-
-**SaaS / Enterprise UX**
-
-A fictional enterprise software website redesign focused on **information architecture, product discovery, navigation, responsive design, and conversion-focused UX**.
-
-Planned experience includes:
+Fictional SaaS company website redesign covering:
 
 * Home
 * Products
@@ -94,258 +261,255 @@ Planned experience includes:
 * About
 * Contact
 
-**Focus:**
-
-`Figma` `UI/UX` `Information Architecture` `Responsive Design` `Design Systems` `Prototyping`
-
-🚧 **Status: Ongoing**
+**Focus:** UX Research • Information Architecture • Wireframes • UI Design • Figma • Responsive Web Design
 
 ---
 
-## 🎓 University Student Portal UX Design
+### 16. University Student Portal UX Design
 
-**Education / Student Management UX**
+Modern student portal designed around common student tasks.
 
-A modern university student portal designed to help students manage:
+**Screens:**
 
-* Timetables
+* Dashboard
+* Timetable
 * Courses
 * Assignments
 * Grades
 * Attendance
-* Course registration
 * Payments
 * Notifications
-* Documents
-* Profile information
-
-The project focuses on **task flows, dashboard UX, information architecture, navigation, forms, and responsive design**.
-
-🚧 **Status: Ongoing**
+* Profile
 
 ---
 
-## 🛍️ Fashion & Lifestyle E-Commerce Mobile App
+### 17. Fashion & Lifestyle E-Commerce Mobile App
 
-**E-Commerce / Mobile UX**
+Mobile shopping experience covering:
 
-A fictional fashion, beauty and lifestyle shopping application focused on improving:
-
-* Product discovery
+* Onboarding
+* Home
+* Categories
 * Search
-* Filtering
-* Product details
+* Filters
+* Product Details
 * Wishlist
 * Cart
 * Checkout
-* Order tracking
-
-The project also explores **empty, loading and error states** throughout the shopping experience.
-
-🚧 **Status: Ongoing**
+* Order Tracking
 
 ---
 
-## 🩺 Doctor Appointment Booking Experience
+### 18. Doctor Appointment Booking Experience
 
-**Healthcare / Booking UX**
-
-A fictional healthcare appointment experience designed around the flow:
+Healthcare appointment booking experience covering:
 
 **Search Doctor → Filter Specialty → Doctor Profile → Select Date → Select Time → Patient Information → Confirmation**
 
-The case study focuses on:
-
-* Booking UX
-* Forms
-* Accessibility
-* Typography
-* Error states
-* Confirmation states
-* Responsive design
-
-🚧 **Status: Ongoing**
+**Focus:** Accessibility • Forms • Error States • Mobile UX • Booking Flow
 
 ---
 
-## 💼 CareerFlow — Job Search & Recruitment Platform
+### 19. CareerFlow — Job Search & Recruitment Platform
 
-**Career / Job Search UX**
+A job-search and recruitment platform designed for both candidates and employers.
 
-A fictional job-search and recruitment platform designed for both **job seekers and employers**.
+**Candidate Side:**
 
-Candidate experience includes:
-
-* Job search
+* Search Jobs
 * Filters
-* Job details
-* Saved jobs
-* Applications
-* Application status
+* Job Details
+* Save Job
+* Apply
+* Application Status
 * Profile
-* Resume upload
+* Resume Upload
 
-Employer experience includes:
+**Employer Side:**
 
 * Dashboard
-* Job creation
-* Application management
-* Candidate profiles
-* Interview scheduling
-
-The project focuses on **complex navigation, search, filtering, forms, dashboards, and multi-user workflows**.
-
-🚧 **Status: Ongoing**
+* Create Job
+* Manage Applications
+* Candidate Profile
+* Interview Scheduling
 
 ---
 
-## 💰 Personal Finance Dashboard UX
+### 20. Personal Finance Dashboard UX
 
-**FinTech / Data Visualization UX**
+Dashboard concept for managing personal finances.
 
-A personal finance dashboard designed to help users understand:
+**Features:**
 
-* Total balance
+* Total Balance
 * Income
 * Expenses
 * Savings
-* Monthly budget
-* Spending categories
-* Recent transactions
-* Financial goals
+* Monthly Budget
+* Spending Categories
+* Recent Transactions
+* Financial Goals
 
-The project focuses on **dashboard hierarchy, charts, tables, filters, financial metrics, and responsive data visualization**.
-
-🚧 **Status: Ongoing**
+**Focus:** Dashboard UX • Data Visualization • Tables • Charts • Responsive Design
 
 ---
 
-# 🔨 Currently Building
+# 🛠️ Currently Building
 
-These projects are actively being developed and will be updated as they progress.
+### 21. IT Help Desk & Asset Management System
 
----
-
-## 🎫 IT Help Desk & Asset Management System
-
-🚧 **Currently Building**
-
-A web-based internal IT support and asset management system designed to manage **support tickets, technician assignments, IT assets, service records, and support activities**.
-
-**Technologies:**
-
-`PHP` `MySQL` `JavaScript` `HTML` `CSS` `SQL` `Excel`
-
----
-
-## 📊 Sales & Business Analytics Dashboard
-
-🚧 **Currently Building**
-
-A business analytics project focused on **data cleaning, SQL analysis, Python-based analysis, Excel dashboards, data visualization, and business insights**.
-
-Planned workflow:
-
-**Dataset → Data Cleaning → SQL Analysis → Python Analysis → Dashboard → Business Insights**
-
-**Technologies:**
-
-`Python` `Pandas` `SQL` `Excel` `Data Analysis` `Data Visualization`
-
----
-
-## 🌐 WordPress Business Website
-
-🚧 **Currently Building**
-
-A fictional business website project focused on **WordPress development, responsive design, UI design, content management, and practical website administration**.
-
-**Technologies:**
-
-`WordPress` `UI Design` `Responsive Design` `Website Administration`
-
----
-
-## 🧪 Professional Website QA Testing Project
-
-🚧 **Currently Building**
-
-A structured software QA project demonstrating how a web application can be tested through:
-
-* Test planning
-* Test scenarios
-* Test cases
-* Bug reporting
-* Functional testing
-* UI testing
-* Responsive testing
-* Regression testing
-* QA documentation
+A practical system concept for managing IT support requests and basic asset information.
 
 **Focus:**
 
-`Manual Testing` `Test Cases` `Bug Reporting` `Functional Testing` `UI Testing` `Responsive Testing` `Regression Testing`
+* IT Support
+* Troubleshooting
+* System Workflows
+* Documentation
+* Database Concepts
+
+---
+
+### 22. Sales & Business Analytics Dashboard
+
+Business analytics dashboard designed to demonstrate data analysis and visualization skills.
+
+**Tools:**
+Excel • Data Cleaning • Pivot Tables • Charts • KPIs
+
+---
+
+### 23. WordPress Business Website
+
+A simple responsive business website built using WordPress.
+
+**Focus:**
+
+* CMS
+* Responsive Design
+* Website Structure
+* Basic SEO
+* Business Website Management
+
+---
+
+### 24. Professional Website QA Testing Project
+
+A practical QA project using a web application as the system under test.
+
+**Testing Areas:**
+
+* Test Planning
+* Test Cases
+* Functional Testing
+* UI Testing
+* Form Validation
+* Responsive Testing
+* Cross-Browser Testing
+* Bug Reporting
+* Accessibility Testing
 
 ---
 
 # 🔮 Future Project Strategy
 
-These are planned projects for future development and are **not currently presented as completed projects**.
+### 25. SaaS Marketing Website Redesign
+
+A planned SaaS marketing website project combining:
+
+* UX/UI Design
+* Responsive Web Design
+* HTML/CSS/JavaScript
+* Bootstrap
+* SEO
 
 ---
 
-## 💻 SaaS Marketing Website Redesign
+### 26. Website QA, Accessibility & Performance Audit
 
-**Planned Project**
+A planned QA-focused project covering:
 
-A conversion-focused SaaS marketing website project combining **UX/UI design, responsive web development, information architecture, SEO and conversion-focused design**.
-
-**Focus:**
-
-`Figma` `UI/UX` `HTML` `CSS` `JavaScript` `Bootstrap` `SEO`
-
----
-
-## 🧪 Website QA, Accessibility & Performance Audit
-
-**Planned Project**
-
-A structured web quality-assurance project covering:
-
-* Functional testing
-* UI testing
-* Responsive testing
-* Accessibility testing
-* Cross-browser testing
-* Performance testing
-* Bug reporting
-* QA documentation
-
-**Focus:**
-
-`Manual Testing` `Accessibility` `Cross-Browser Testing` `Performance Testing` `Bug Reporting` `QA`
+* Test Cases
+* Bug Reports
+* Accessibility Testing
+* Responsive Testing
+* Cross-Browser Testing
+* Performance Testing
+* Final QA Report
 
 ---
 
-## 📈 Conversion Landing Page & Analytics Experiment
+### 27. Conversion Landing Page & Analytics Experiment
 
-**Planned Project**
+A planned marketing-focused web project demonstrating:
 
-A conversion-focused landing page project combining **UX design, responsive development, analytics, SEO/GEO and a simple A/B testing experiment**.
+* Landing Page UX
+* Conversion-Focused Design
+* Analytics
+* SEO/GEO
+* A/B Testing Concepts
 
-The project will explore how design and content decisions can influence user behavior and conversion.
+---
 
-**Focus:**
+# 🎓 Education
 
-`UI/UX` `Landing Page Design` `Responsive Design` `Analytics` `SEO` `A/B Testing` `Data Analysis`
+### Diploma in Information Technology
+
+**University of Sri Jayewardenepura — 2025**
+
+**GPA: 3.97**
+
+### G.C.E. Advanced Level
+
+Commerce Stream
+
+### GIT
+
+Grade A
+
+### G.C.E. Ordinary Level
+
+5A • 3B • 1C
+
+---
+
+# 📚 Currently Learning & Improving
+
+* Advanced Frontend Web Development
+* UI/UX Design
+* Software Quality Assurance
+* Data Analytics
+* Python
+* SQL
+* Excel
+* Responsive Web Design
+* AI-Assisted Development
+* Spoken English
+* Business & MIS Concepts
+
+---
+
+# 🎯 Career Interests
+
+I am currently interested in **entry-level and junior opportunities** in:
+
+* Frontend Web Development
+* Web Design
+* UI/UX Design
+* Software QA / Testing
+* Data Analytics
+* IT Support
+* MIS / Business Technology
+
+I am particularly interested in opportunities where I can continue learning, work on real-world projects, and contribute to a team while developing my technical and professional skills.
 
 ---
 
 # 🌐 Portfolio
 
-Explore my **completed projects, ongoing development work, UI/UX case studies, and future projects** through my personal portfolio.
+**Portfolio:** [Add your portfolio link here]
 
-**Portfolio:** Coming Soon
+**LinkedIn:** [Add your LinkedIn profile here]
 
 ---
 
@@ -353,48 +517,8 @@ Explore my **completed projects, ongoing development work, UI/UX case studies, a
 
 **Email:** [ddilkigallage@gmail.com](mailto:ddilkigallage@gmail.com)
 
-**LinkedIn:** Coming Soon
-
-**Portfolio:** Coming Soon
+Feel free to connect with me regarding opportunities, projects, collaboration, or learning.
 
 ---
 
-# 📈 Currently Learning & Improving
-
-I am continuously developing my skills in:
-
-* Web Development
-* Front-End Development
-* PHP & MySQL
-* UI/UX Design
-* Figma
-* Software Quality Assurance
-* Manual Testing
-* Data Analytics
-* Python & Pandas
-* SQL & Database Management
-* Excel
-* IT Support & Administration
-* WordPress
-* Responsive Web Design
-* AI-Assisted Development
-
----
-
-# 🎯 Career Interests
-
-I am currently building practical skills and portfolio projects for entry-level opportunities in:
-
-* Junior Web Development
-* Front-End Development
-* UI/UX Design
-* Software QA / Testing
-* Junior Data Analytics
-* IT Support
-* IT Administration
-
-I am particularly interested in opportunities where I can **learn, contribute, solve practical problems, and continue developing my technical skills**.
-
----
-
-### 💡 Building • Learning • Designing • Testing • Analyzing • Improving
+### Building • Learning • Designing • Testing • Analyzing • Improving 🚀
