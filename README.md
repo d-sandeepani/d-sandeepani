@@ -451,28 +451,6 @@ A planned marketing-focused web project demonstrating:
 
 ---
 
-# 🎓 Education
-
-### Diploma in Information Technology
-
-**University of Sri Jayewardenepura — 2025**
-
-**GPA: 3.97**
-
-### G.C.E. Advanced Level
-
-Commerce Stream
-
-### GIT
-
-Grade A
-
-### G.C.E. Ordinary Level
-
-5A • 3B • 1C
-
----
-
 # 📚 Currently Learning & Improving
 
 * Advanced Frontend Web Development
@@ -489,27 +467,12 @@ Grade A
 
 ---
 
-# 🎯 Career Interests
-
-I am currently interested in **entry-level and junior opportunities** in:
-
-* Frontend Web Development
-* Web Design
-* UI/UX Design
-* Software QA / Testing
-* Data Analytics
-* IT Support
-* MIS / Business Technology
-
-I am particularly interested in opportunities where I can continue learning, work on real-world projects, and contribute to a team while developing my technical and professional skills.
-
----
 
 # 🌐 Portfolio
 
-**Portfolio:** [Add your portfolio link here]
+**Portfolio:** [https://d-sandeepani.github.io/Portfolio/]
 
-**LinkedIn:** [Add your LinkedIn profile here]
+**LinkedIn:** [https://linkedin.com/in/dilki-sandeepani]
 
 ---
 
